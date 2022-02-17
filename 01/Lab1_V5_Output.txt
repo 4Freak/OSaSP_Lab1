@@ -1,0 +1,44 @@
+File path: /home/pablo/051004/Bobryk_P.V./01/7.exe
+File name: 7.exe
+File size: 15960 
+============== 
+File path: /home/pablo/051004/Bobryk_P.V./01/7.sh
+File name: 7.sh
+File size: 46 
+============== 
+File path: /home/pablo/051004/Bobryk_P.V./01/Lab1_V5_Output.txt
+File name: Lab1_V5_Output.txt
+File size: 168 
+============== 
+File path: /home/pablo/051004/Bobryk_P.V./01/osasp_lab1.docx
+File name: osasp_lab1.docx
+File size: 22122 
+============== 
+File path: /home/pablo/051004/Bobryk_P.V./01/hello_linux.exe
+File name: hello_linux.exe
+File size: 15960 
+============== 
+File path: /home/pablo/051004/Bobryk_P.V./01/5.txt
+File name: 5.txt
+File size: 1 
+============== 
+File path: /home/pablo/051004/Bobryk_P.V./01/Lab1_V5.sh
+File name: Lab1_V5.sh
+File size: 1023 
+============== 
+File path: /home/pablo/051004/Bobryk_P.V./01/hello_linux.c
+File name: hello_linux.c
+File size: 60 
+============== 
+File path: /home/pablo/051004/Bobryk_P.V./01/6Output.txt
+File name: 6Output.txt
+File size: 1341 
+============== 
+File path: /home/pablo/051004/Bobryk_P.V./01/6.sh
+File name: 6.sh
+File size: 780 
+============== 
+File path: /home/pablo/051004/Bobryk_P.V./01/5.sh
+File name: 5.sh
+File size: 37 
+============== 
